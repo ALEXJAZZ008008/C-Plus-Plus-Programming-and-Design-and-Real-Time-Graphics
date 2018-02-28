@@ -1,0 +1,8 @@
+﻿  compilation object save succeeded; see Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial07_PS.cso
+  compilation object save succeeded; see Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial07_VS.cso
+  DDSTextureLoader.cpp
+  Tutorial07.cpp
+  Generating Code...
+DDSTextureLoader.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Tutorial07_2012.vcxproj -> Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial07.exe
+  Tutorial07_2012.vcxproj -> Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial07.pdb (Full PDB)

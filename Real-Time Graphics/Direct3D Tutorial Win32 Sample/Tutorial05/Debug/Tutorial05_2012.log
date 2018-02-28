@@ -1,0 +1,12 @@
+﻿Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Tutorial05\Tutorial05.fx(70,2-43): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+  
+  compilation object save succeeded; see Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial05_PS.cso
+  compilation object save succeeded; see Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial05_VS.cso
+  Tutorial05.cpp
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial05\tutorial05.cpp(609): warning C4244: '=': conversion from 'float' to 'INT', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial05\tutorial05.cpp(805): warning C4018: '<': signed/unsigned mismatch
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial05\tutorial05.cpp(866): warning C4018: '<': signed/unsigned mismatch
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial05\tutorial05.cpp(873): warning C4018: '<': signed/unsigned mismatch
+Tutorial05.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Tutorial05_2012.vcxproj -> Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial05.exe
+  Tutorial05_2012.vcxproj -> Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial05.pdb (Full PDB)

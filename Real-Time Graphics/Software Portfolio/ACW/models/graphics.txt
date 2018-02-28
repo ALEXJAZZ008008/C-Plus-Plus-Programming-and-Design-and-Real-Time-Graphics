@@ -1,0 +1,423 @@
+View:
+
+1:
+
+0.0 1.0 -13.0
+
+2:
+
+0.0 1.0 -4.0
+
+3:
+
+0.0 0.0 0.0
+
+4:
+
+0.0 0.0 0.0
+
+Model Size: 6
+
+1:
+
+Mesh:
+
+"../ACW/models/dragonfly/body/body/dragonflyBodyMesh.obj"
+
+Texture:
+
+"../ACW/models/dragonfly/body/body/dragonflyBodyTexture.tga"
+
+Bump Map:
+
+"../ACW/models/dragonfly/body/body/dragonflyBodyBumpMap.tga"
+
+Specular Map:
+
+"../ACW/models/dragonfly/body/body/dragonflyBodySpecularMap.tga"
+
+Colour:
+
+0.0 0.5 0.0 1.0
+
+Size:
+
+1.0 1.0 1.0
+
+Position:
+
+-0.05 0.7 -0.02
+
+Rotation:
+
+15.0 270.0 0.0
+
+Reflectivity:
+
+32.0
+
+Blend Amount:
+
+1.0
+
+2:
+
+Mesh:
+
+"../ACW/models/dragonfly/body/eyes/dragonflyBodyEyesMesh.obj"
+
+Texture:
+
+"../ACW/models/dragonfly/body/eyes/dragonflyBodyEyesTexture.tga"
+
+Bump Map:
+
+"../ACW/models/dragonfly/body/eyes/dragonflyBodyEyesBumpMap.tga"
+
+Specular Map:
+
+"../ACW/models/dragonfly/body/eyes/dragonflyBodyEyesSpecularMap.tga"
+
+Colour:
+
+0.5 0.0 0.0 1.0
+
+Size:
+
+0.55 0.35 0.45
+
+Position:
+
+-0.07 0.75 -0.02
+
+Rotation:
+
+15.0 270.0 0.0
+
+Reflectivity:
+
+32.0
+
+Blend Amount:
+
+1.0
+
+3:
+
+Mesh:
+
+"../ACW/models/dragonfly/wings/dragonflyWingsMesh.obj"
+
+Texture:
+
+"../ACW/models/dragonfly/wings/dragonflyWingsTexture.tga"
+
+Bump Map:
+
+"../ACW/models/dragonfly/wings/dragonflyWingsBumpMap.tga"
+
+Specular Map:
+
+"../ACW/models/dragonfly/wings/dragonflyWingsSpecularMap.tga"
+
+Colour:
+
+0.8 0.8 0.8 1.0
+
+Size:
+
+1.0 1.0 1.0
+
+Position:
+
+-0.05 0.7 -0.02
+
+Rotation:
+
+15.0 270.0 0.0
+
+Reflectivity:
+
+64.0
+
+Blend Amount:
+
+0.75
+
+4:
+
+Mesh:
+
+"../ACW/models/stick/stickMesh.obj"
+
+Texture:
+
+"../ACW/models/stick/stickTexture.tga"
+
+Bump Map:
+
+"../ACW/models/stick/stickBumpMap.tga"
+
+Specular Map:
+
+"../ACW/models/stick/stickSpecularMap.tga"
+
+Colour:
+
+0.5 0.2 0.1 1.0
+
+Size:
+
+2.0 2.0 2.0
+
+Position:
+
+0.0 0.0 0.0
+
+Rotation:
+
+0.0 0.0 0.0
+
+Reflectivity:
+
+16.0
+
+Blend Amount:
+
+1.0
+
+5:
+
+Mesh:
+
+"../ACW/models/desert/desertMesh.obj"
+
+Texture:
+
+"../ACW/models/desert/desertTexture.tga"
+
+Bump Map:
+
+"../ACW/models/desert/desertBumpMap.tga"
+
+Specular Map:
+
+"../ACW/models/desert/desertSpecularMap.tga"
+
+Colour:
+
+0.9 0.7 0.5 1.0
+
+Size:
+
+8.0 0.0 8.0
+
+Position:
+
+0.0 0.0 0.0
+
+Rotation:
+
+0.0 0.0 0.0
+
+Reflectivity:
+
+16.0
+
+Blend Amount:
+
+1.0
+
+6:
+
+Mesh:
+
+"../ACW/models/hemisphere/hemisphereMesh.obj"
+
+Texture:
+
+"../ACW/models/hemisphere/hemisphereTexture.tga"
+
+Bump Map:
+
+"../ACW/models/hemisphere/hemisphereBumpMap.tga"
+
+Specular Map:
+
+"../ACW/models/hemisphere/hemisphereSpecularMap.tga"
+
+Colour:
+
+0.0 0.5 1.0 1.0
+
+Size:
+
+5.0 5.0 5.0
+
+Position:
+
+0.0 0.0 0.0
+
+Rotation:
+
+270.0 0.0 0.0
+
+Reflectivity:
+
+4.0
+
+Blend Amount:
+
+0.6
+
+Lights:
+
+1:
+
+Position:
+
+0.0 4.0 -2.0 1.0
+
+Ambient:
+
+0.1 0.1 0.1 1.0
+
+Diffuse:
+
+0.5 0.5 0.5 1.0
+
+Specular:
+
+0.3 0.3 0.3 1.0
+
+Path:
+
+1:
+
+0.0 4.0 -2.0
+
+2:
+
+0.0 4.0 -2.0
+
+3:
+
+0.0 4.0 -2.0
+
+2:
+
+Position:
+
+0.0 4.0 1.0 1.0
+
+Ambient:
+
+0.1 0.1 0.1 1.0
+
+Diffuse:
+
+0.5 0.5 0.5 1.0
+
+Specular:
+
+0.3 0.3 0.3 1.0
+
+Path:
+
+1:
+
+0.0 4.0 1.0
+
+2:
+
+0.0 4.0 1.0
+
+3:
+
+0.0 4.0 1.0
+
+3:
+
+Position:
+
+0.0 2.0 -1.0 1.0
+
+Ambient:
+
+0.1 0.1 0.1 1.0
+
+Diffuse:
+
+0.5 0.5 0.5 1.0
+
+Specular:
+
+0.3 0.3 0.3 1.0
+
+Path:
+
+1:
+
+-2.0 4.0 2.0
+
+2:
+
+0.0 2.0 -1.0
+
+3:
+
+2.0 4.0 2.0
+
+Path Size: 13
+
+1:
+
+1.0 2.0 0.0
+
+2:
+
+-1.0 2.0 0.0
+
+3:
+
+0.0 2.0 1.0
+
+4:
+
+0.0 2.0 -1.0
+
+5:
+
+1.0 -2.0 1.0
+
+6:
+
+-1.0 -2.0 -1.0
+
+7:
+
+-1.0 0.5 0.0
+
+8:
+
+1.0 0.5 0.0
+
+9:
+
+10.0 2.0 -10.0
+
+10:
+
+-10.0 2.0 10.0
+
+11:
+
+-1.0 0.5 1.0
+
+12:
+
+1.0 0.5 -1.0
+
+13:
+
+0.0 0.0 0.0

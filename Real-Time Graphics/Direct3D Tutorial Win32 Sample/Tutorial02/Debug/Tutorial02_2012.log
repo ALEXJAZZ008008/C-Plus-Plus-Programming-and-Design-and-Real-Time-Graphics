@@ -1,0 +1,6 @@
+﻿  compilation object save succeeded; see Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial02_PS.cso
+  compilation object save succeeded; see Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial02_VS.cso
+  Tutorial02.cpp
+Tutorial02.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Tutorial02_2012.vcxproj -> Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial02.exe
+  Tutorial02_2012.vcxproj -> Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial02.pdb (Full PDB)

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tutorial01d", "tutorial01d\tutorial01d.vcxproj", "{BEE631DB-A94F-48C2-AFB9-76125D145ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE631DB-A94F-48C2-AFB9-76125D145ECC}.Debug|x64.ActiveCfg = Debug|x64
+		{BEE631DB-A94F-48C2-AFB9-76125D145ECC}.Debug|x64.Build.0 = Debug|x64
+		{BEE631DB-A94F-48C2-AFB9-76125D145ECC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEE631DB-A94F-48C2-AFB9-76125D145ECC}.Debug|x86.Build.0 = Debug|Win32
+		{BEE631DB-A94F-48C2-AFB9-76125D145ECC}.Release|x64.ActiveCfg = Release|x64
+		{BEE631DB-A94F-48C2-AFB9-76125D145ECC}.Release|x64.Build.0 = Release|x64
+		{BEE631DB-A94F-48C2-AFB9-76125D145ECC}.Release|x86.ActiveCfg = Release|Win32
+		{BEE631DB-A94F-48C2-AFB9-76125D145ECC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA922092-46B6-43AD-9C3C-76F6DE1F3E42}
+	EndGlobalSection
+EndGlobal

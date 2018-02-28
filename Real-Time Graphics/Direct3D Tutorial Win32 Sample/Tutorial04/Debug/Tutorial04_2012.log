@@ -1,0 +1,22 @@
+﻿  compilation object save succeeded; see Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial04_PS.cso
+  compilation object save succeeded; see Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial04_VS.cso
+  Tutorial04.cpp
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(470): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(471): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(626): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(627): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(630): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(631): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(636): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(637): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(638): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(640): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(641): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(642): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(645): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(646): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(650): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+z:\real-time graphics\direct3d tutorial win32 sample\tutorial04\tutorial04.cpp(724): warning C4244: '=': conversion from 'float' to 'INT', possible loss of data
+Tutorial04.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Tutorial04_2012.vcxproj -> Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial04.exe
+  Tutorial04_2012.vcxproj -> Z:\Real-Time Graphics\Direct3D Tutorial Win32 Sample\Debug\Tutorial04.pdb (Full PDB)

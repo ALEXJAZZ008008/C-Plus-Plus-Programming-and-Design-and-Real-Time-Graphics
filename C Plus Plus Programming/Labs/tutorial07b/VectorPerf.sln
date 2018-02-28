@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorPerf", "VectorPerf.vcxproj", "{1AFF5077-3034-4EF4-8374-1F6CC130F208}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AFF5077-3034-4EF4-8374-1F6CC130F208}.Debug|x86.ActiveCfg = Debug|Win32
+		{1AFF5077-3034-4EF4-8374-1F6CC130F208}.Debug|x86.Build.0 = Debug|Win32
+		{1AFF5077-3034-4EF4-8374-1F6CC130F208}.Release|x86.ActiveCfg = Release|Win32
+		{1AFF5077-3034-4EF4-8374-1F6CC130F208}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD2C7EA5-E19C-42D2-AA5E-63FD605B92F1}
+	EndGlobalSection
+EndGlobal
